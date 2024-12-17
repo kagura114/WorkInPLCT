@@ -5,5 +5,5 @@
 
 ## 2024年12月
 - PR/Merged: [revyos/.github](https://github.com/revyos/.github) 修复 DeadLink [Link](https://github.com/revyos/.github/pull/1)
-- PR: [revyos/docs](https://github.com/revyos/docs) 根据拿到的开发板对原有的安装流程文档进行了修改 [Link](https://github.com/revyos/docs/pull/5)
+- PR/Merged: [revyos/docs](https://github.com/revyos/docs) 根据拿到的开发板对原有的安装流程文档进行了修改 [Link](https://github.com/revyos/docs/pull/9)
 - Issue: [FIFCC/revyos-test issue#1](https://github.com/FIFCC/revyos-test/issues/1) 找到最新镜像在 LicheePi4A 上无线模块不可用
