@@ -5,5 +5,7 @@
 
 ## 2024年12月
 - PR/Merged: [revyos/.github](https://github.com/revyos/.github) 修复 DeadLink [Link](https://github.com/revyos/.github/pull/1)
-- PR/Merged: [revyos/docs](https://github.com/revyos/docs) 根据拿到的开发板对原有的安装流程文档进行了修改 [Link](https://github.com/revyos/docs/pull/9)
+- PR/Merged: [revyos/docs](https://github.com/revyos/docs) 根据拿到的开发板对原有的安装流程文档进行了修改，并修改了 `docker` 使用文档 [Link](https://github.com/revyos/docs/pull/9)，共 3 个 commit
 - Issue: [FIFCC/revyos-test issue#1](https://github.com/FIFCC/revyos-test/issues/1) 找到最新镜像在 LicheePi4A 上无线模块不可用
+- PR/Merged: [revyos/docs](https://github.com/revyos/docs)增加了 ROS2 的安装教程 [Link](https://github.com/revyos/docs/pull/9)，共 2 个 commit
+- Issue: [FIFCC/revyos-test issue#2](https://github.com/FIFCC/revyos-test/issues/2) Chromium 浏览媒体较多的网页时出现 BUG: Bad page state in process Media 以及短时严重卡顿
