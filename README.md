@@ -9,3 +9,8 @@
 - Issue: [FIFCC/revyos-test issue#1](https://github.com/FIFCC/revyos-test/issues/1) 找到最新镜像在 LicheePi4A 上无线模块不可用
 - PR/Merged: [revyos/docs](https://github.com/revyos/docs)增加了 ROS2 的安装教程 [Link](https://github.com/revyos/docs/pull/9)，共 2 个 commit
 - Issue: [FIFCC/revyos-test issue#2](https://github.com/FIFCC/revyos-test/issues/2) Chromium 浏览媒体较多的网页时出现 BUG: Bad page state in process Media 以及短时严重卡顿
+
+## 2025年1月
+- PR/Merged: [revyos/docs](https://github.com/revyos/docs)修改了刷写文档，详见PR内说明 [Link](https://github.com/revyos/docs/pull/18)
+- PR/Merged: [revyos/docs](https://github.com/revyos/docs)翻译刷写文档 [Link](https://github.com/revyos/docs/pull/20)
+- 测试20250123镜像（以AIC8800 Wifi 驱动为主）
