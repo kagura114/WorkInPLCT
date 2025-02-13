@@ -13,4 +13,4 @@
 ## 2025年1月
 - PR/Merged: [revyos/docs](https://github.com/revyos/docs)修改了刷写文档，详见PR内说明 [Link](https://github.com/revyos/docs/pull/18)
 - PR/Merged: [revyos/docs](https://github.com/revyos/docs)翻译刷写文档 [Link](https://github.com/revyos/docs/pull/20)
-- 测试20250123镜像（以AIC8800 Wifi 驱动为主）
+- 测试20250123镜像（以AIC8800 Wifi 驱动为主），测试结论: [revyos/discussions/83](https://github.com/orgs/revyos/discussions/83#discussioncomment-12185520)
